@@ -5,7 +5,7 @@
 
 int main(void)
 {
-    int height = 10, length = 8, width = 5, volume, weight;
+    int height, length, width, volume, weight;
 
     printf("Enter height of box: ");
     //scanf("%d", &height);
