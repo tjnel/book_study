@@ -2,7 +2,7 @@
 ### Chapter 2 Exercises by Tnel
 
 #### 2.1
-You get this error:
+You get this warning from vscode:
 ```
 Undefined symbols for architecture x86_64:
   "_main", referenced from:
