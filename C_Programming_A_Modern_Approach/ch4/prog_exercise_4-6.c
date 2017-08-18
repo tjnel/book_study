@@ -6,7 +6,7 @@
 int main(void){
     int d1, d2, d3, d4, d5, d6, d7, d8, d9, d10, d11, d12, first_sum, second_sum, total;
 
-    printf("Enter first 11 digits of a UPC: ");
+    printf("Enter first 12 digits of a EAN: ");
     scanf("%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d%1d", &d1, &d2, &d3, &d4, &d5, &d6, &d7, &d8, &d9, &d10, &d11, &d12);
 
     first_sum = d2 + d4 + d6 + d8 + d10 + d12; 
