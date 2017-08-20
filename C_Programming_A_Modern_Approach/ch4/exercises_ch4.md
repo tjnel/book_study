@@ -2,7 +2,7 @@
 ### Chapter 4 Exercises by Tnel
 
 #### 4.1
-```
+```c
 4.1 (a):  1 2 
 4.1 (b):  0 
 4.1 (c):  1 
@@ -12,7 +12,7 @@
 Yes they are equal
 
 #### 4.3
-```
+```c
 4.3 (a):  1
 4.3 (b):  -1 or -2
 4.3 (c):  -1 or -2
@@ -20,7 +20,7 @@ Yes they are equal
 ```
 
 #### 4.4
-```
+```c
 4.4 (a):  1
 4.4 (b):  -1 
 4.4 (c):  -1 
@@ -28,7 +28,7 @@ Yes they are equal
 ```
 
 #### 4.5
-```
+```c
 4.6 (a):  3
 4.6 (b):  -3 
 4.6 (c):  3 
@@ -36,7 +36,7 @@ Yes they are equal
 ```
 
 #### 4.6
-```
+```c
 4.6 (a):  3
 4.6 (b):  -3 
 4.6 (c):  3 
@@ -51,7 +51,7 @@ Because subtracting 1 should be the first operation and effects the remainder wh
 Yes, it would
 
 #### 4.9
-```
+```c
 4.9 (a): 63 8 
 4.9 (b): 3 2 1 
 4.9 (c): 2 -1 3 
@@ -67,7 +67,7 @@ Yes, it would
 ```
 
 #### 4.11
-```
+```c
 4.11 (a): 0 2  
 4.11 (b): 4 11 6 
 4.11 (c): 0 8 7 
@@ -75,7 +75,7 @@ Yes, it would
 ```
 
 #### 4.12
-```
+```c
 4.12 (a): 6 16 
 4.12 (b): 6 -7 
 4.12 (c): 6 23 
@@ -84,7 +84,7 @@ Yes, it would
 
 #### 4.13
 ++i because,
-```
+```c
 #include <stdio.h>
 
 int main(void) {
@@ -97,7 +97,7 @@ int main(void) {
 }
 ```
 outputs:
-```
+```c
 4.13: 6 5 6
 ```
 
@@ -112,7 +112,7 @@ outputs:
 `(a * (- b)) / c) - d`
 
 #### 4.15
-```
+```c
 4.15 (a): i = 3 and j = 2 
 4.15 (b): i = 0 and j = 2 
 4.15 (c): i = 1 and j = 2 
