@@ -6,3 +6,4 @@ Repo to store all practice exercises and chapter projects for text books.
 Book | Status
 --- | --- 
 [C Programming - A Modern Approach 2nd Edition](http://a.co/6p0NuUL) | `IN PROGRESS`
+[Practical Binary Analysis](https://nostarch.com/binaryanalysis) | `NOT STARTED`
